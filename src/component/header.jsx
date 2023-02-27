@@ -269,7 +269,7 @@ function Header() {
                         <input style={{ marginLeft: "10%", width: "45rem", padding: "7px 20px", border: "0px", borderRadius: "5px" }} className="topinput" placeholder="What are you looking for?"></input>
                         <Nav style={{ color: "red", fontSize: "15px", fontWeight: "700" }} className="me-auto">
                             <Nav.Link style={{ width: "max-content", borderLeft: "1px solid rgb(188, 186, 186)", borderRight: "1px solid rgb(188, 186, 186)", paddingTop: "0px", padding: "2px", marginLeft: "25px" }} className='navlink1'><LoginForm /></Nav.Link>
-                            <Nav.Link style={{ width: "max-content", borderRight: "1px solid rgb(188, 186, 186)", paddingTop: "0px", padding: "2px" }} className='navlink' href="/Your cart">Cart <span> <Icons.FaShoppingBag /></span></Nav.Link>
+                            <Nav.Link style={{ width: "max-content", borderRight: "1px solid rgb(188, 186, 186)", paddingTop: "0px", padding: "2px" }} className='navlink' href="/Your cart">Cart <span> <Icons.FaShoppingBag/></span></Nav.Link>
                         </Nav>
                     </Container>
                 </Navbar>

@@ -1,6 +1,5 @@
 import React from 'react'
 import { useState } from 'react';
-import Button from './Button';
 import * as Icons from "react-icons/fi";
 
 export default function Add() {
