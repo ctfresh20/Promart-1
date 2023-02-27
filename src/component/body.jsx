@@ -3,8 +3,8 @@ import Card from 'react-bootstrap/Card';
 import Row from "react-bootstrap/Row"
 import Col from "react-bootstrap/Col"
 import Carousel from 'react-bootstrap/Carousel';
-import 'react-multi-carousel/lib/styles.css';
 
+import "react-multi-carousel/lib/styles.css";
 import slider1 from "./images/slider1.jpg"
 import slider2 from "./images/slider2.jpg"
 import slider3 from "./images/slider3.jpg"
